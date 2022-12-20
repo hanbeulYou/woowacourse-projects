@@ -12,3 +12,4 @@
 |  2   | baseball | [javascript-baseball](https://github.com/hanbeulYou/javascript-baseball/tree/hanbeulYou) | [[우테코]프론트엔드 프리코스 2주차 후기](https://velog.io/@hayou/우테코-프론트엔드-프리코스-2주차-후기) |
 |  3   | lotto | [javascript-lotto](https://github.com/hanbeulYou/javascript-lotto/tree/hanbeulYou) | [[우테코]프론트엔드 프리코스 3주차 후기](https://velog.io/@hayou/우테코-프론트엔드-프리코스-3주차-후기) |
 |  4   | bridge | [javascript-bridge](https://github.com/hanbeulYou/javascript-bridge/tree/hanbeulYou) | [[우테코]프론트엔드 프리코스 4주차 후기](https://velog.io/@hayou/우테코-프론트엔드-프리코스-4주차-후기)] |
+|  FINAL   | menu | [javascript-menu](https://github.com/hanbeulYou/javascript-menu/tree/hanbeulYou) | [우테코]프론트엔드 프리코스 최종코테 후기] |
